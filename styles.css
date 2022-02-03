@@ -1,0 +1,46 @@
+body {background-color: #FFE4C4;}
+
+p {font-size: 20px;
+    text-align: center;}
+
+img{ width: 600px;
+    display: block;
+    margin: auto;}
+
+button {background-color: #778899;
+    color: white;
+    display: block;
+    margin: auto;
+    padding: 5px;}
+
+.pg1 {} 
+
+.event1{ }
+
+.event2 { display: none;}
+
+.event3 { display: none; } 
+
+.pg2 { display: none; } 
+
+.pg3 { display: none; } 
+
+.pg4 { display: none; } 
+
+.pg5 { display: none; } 
+
+.pg6 { display: none; } 
+
+.pg7 { display: none; } 
+
+.pg8 { display: none; } 
+
+.pg9 { display: none; } 
+
+.pg10 { display: none; } 
+
+.pg11 { display: none; } 
+
+.pg12 { display: none; } 
+
+.pg13 { display: none; } 
